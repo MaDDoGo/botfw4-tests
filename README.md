@@ -24,5 +24,10 @@ dotnet watch run
 
 dotnet run
 
+## Resources
+
+.net Core 3 resources:
+- https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.0&tabs=visual-studio#prerequisites
+- https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/
 
 
